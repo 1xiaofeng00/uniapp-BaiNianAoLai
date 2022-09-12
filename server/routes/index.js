@@ -384,8 +384,8 @@ router.post('/api/code', function(req, res, next) {
   //开始发送短信
   smsClient.sendSMS({
     PhoneNumbers: phoneNum,
-    SignName: "阿里云短信测试", //签名名称 前面提到要准备的
-    TemplateCode: "SMS_154950909", //模版CODE  前面提到要准备的
+    SignName: "阿里云短信测试", //签名名称 
+    TemplateCode: "SMS_154950909", //模版CODE 
     TemplateParam: `{"code":'${str1}'}`, // 短信模板变量对应的实际值，JSON格式
   }).then(result => {
     console.log("result", result)
