@@ -1,0 +1,16 @@
+.icons.data-v-4d8061dc {
+  display: flex;
+  flex-wrap: wrap;
+}
+.icons-item.data-v-4d8061dc {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.icons-item .icons-img.data-v-4d8061dc {
+  width: 80rpx;
+  height: 80rpx;
+}
+

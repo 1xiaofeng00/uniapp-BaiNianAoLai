@@ -1,0 +1,12 @@
+.card.data-v-3879f0e9 {
+  padding: 20rpx 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+.card .card-name.data-v-3879f0e9 {
+  margin: 0 20rpx;
+  font-size: 32rpx;
+}
+

@@ -1,0 +1,35 @@
+.commodity.data-v-5ac280a4 {
+  display: flex;
+}
+.commodity .commodity-item.data-v-5ac280a4 {
+  padding-bottom: 20rpx;
+}
+.commodity .commodity-item .commodity-img.data-v-5ac280a4 {
+  width: 100%;
+}
+.commodity .commodity-item .commodity-content.data-v-5ac280a4 {
+  text-align: center;
+}
+.commodity .commodity-item .commodity-content .commodity-name.data-v-5ac280a4 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  color: #414141;
+  word-break: break-all;
+  padding: 5rpx 20rpx;
+}
+.commodity .commodity-item .commodity-content .oprice.data-v-5ac280a4 {
+  text-decoration: line-through;
+  font-size: 24rpx;
+  color: #999999;
+}
+.commodity .commodity-item .commodity-content .discount.data-v-5ac280a4 {
+  border-radius: 4rpx;
+  border: 1rpx solid #FF3333;
+  padding: 2rpx 10rpx;
+  font-size: 20rpx;
+  color: #FF3333;
+}
+

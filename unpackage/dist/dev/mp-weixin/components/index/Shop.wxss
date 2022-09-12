@@ -1,0 +1,12 @@
+.shop-big.data-v-aaa41fa4 {
+  width: 100%;
+  height: 350rpx;
+}
+.scroll-content.data-v-aaa41fa4 {
+  width: 100%;
+  white-space: nowrap;
+}
+.scroll-content .scroll-item.data-v-aaa41fa4 {
+  display: inline-block;
+}
+
