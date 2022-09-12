@@ -376,8 +376,8 @@ router.post('/api/code', function(req, res, next) {
   console.log("手机号码", phoneNum);
   // 初始化sms_client
   let smsClient = new SMSClient({
-    accessKeyId: "LTAI5tEC4EVLMhNUhdLrBP4W",
-    secretAccessKey: "F4mSKDaDh5SDC3pmp9YtFt9hw8pOWD"
+    accessKeyId: "xxxxxxxxxxxxx",//保密
+    secretAccessKey: "xxxxxxxxxxxxxxx"//保密
   });
   let str1 = getCode();
   codes = str1;
