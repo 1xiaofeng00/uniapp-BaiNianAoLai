@@ -13,7 +13,7 @@ git clone https://github.com/1xiaofeng00/uniapp-BaiNianAoLai.git
   goods_search商品信息（id , imgUrl , name , pprice , oprice , discount）  
   store_order订单信息（id ，uid , order_id , goods_name , goods_price , goods_num , order_status）  
   
-## 三、运行后端  
+## 三、运行后台  
 1.cd server  
 2.npm install  
 3.npm start  
