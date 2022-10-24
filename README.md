@@ -12,7 +12,6 @@ git clone https://github.com/1xiaofeng00/uniapp-BaiNianAoLai.git
   goods_cart购物车信息（id , uid , goods_id , name , imgUrl , pprice , num）  
   goods_search商品信息（id , imgUrl , name , pprice , oprice , discount）  
   store_order订单信息（id ，uid , order_id , goods_name , goods_price , goods_num , order_status）  
-  ![4@7`P$H{4C{KHFHO_LP{LDP](https://user-images.githubusercontent.com/107788475/197436849-7b275f4b-0368-4083-b62c-babfa119e068.png)
 
 ## 三、运行后台  
 1.cd server  
@@ -25,4 +24,8 @@ git clone https://github.com/1xiaofeng00/uniapp-BaiNianAoLai.git
 3.点击顶部运行=>运行到手机模拟器=>运行到基座  
 
 ## **注意**
-短信验证码登录不可用，短信验证码服务只能提供个人测试使用，如需使用请去阿里云或者腾讯云购买短信包，然后打开 *server=>routes=>index.js* 找到373行完善代码
+短信验证码登录不可用，短信验证码服务只能提供个人测试使用，如需使用请去阿里云或者腾讯云购买短信包，然后打开 *server=>routes=>index.js* 找到373行完善代码  
+![}YAS_L(}%L6NE9{)WSGHA(D](https://user-images.githubusercontent.com/107788475/197437838-f6f594b2-eb2d-43c3-a98c-f05bb19dbbd5.png)![$VQ(Z 05WAMCT0YN~L5)ZA9](https://user-images.githubusercontent.com/107788475/197437853-0a2b372c-8be8-405d-a5b0-fc74c50479bf.png)![ZQL5@ZYNR5RVR46(MIIMM D](https://user-images.githubusercontent.com/107788475/197437860-57dc2167-0917-404e-8e58-7e62c7393756.png)![7QSG WKENY $RQ0C (ALYJV](https://user-images.githubusercontent.com/107788475/197437866-61959c54-4a88-4230-9f94-80d4cdfd66cd.png)
+
+
+
