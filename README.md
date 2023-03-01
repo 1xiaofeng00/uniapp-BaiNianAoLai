@@ -13,12 +13,16 @@ git clone https://github.com/1xiaofeng00/uniapp-BaiNianAoLai.git
   goods_search商品信息（id , imgUrl , name , pprice , oprice , discount）  
   store_order订单信息（id ，uid , order_id , goods_name , goods_price , goods_num , order_status）  
 
-## 三、运行后台  
+## 五、填写IP地址  
+#### 打开文件common=>api=>request.js 并填写第五行 baseUrl 中的IP地址  
+#### 如需查找ip地址 则需要打开命令窗口，mac: ifconfig, windows: ipconfig  
+
+## 四、运行后台  
 1.cd server  
 2.npm install  
 3.npm start  
 
-## 四、运行项目  
+## 五、运行项目  
 1.电脑连接手机，或者使用模拟器（雷电模拟器）并打开模拟器  
 2.使用HBuilder打开项目  
 3.点击顶部运行=>运行到手机模拟器=>运行到基座  
