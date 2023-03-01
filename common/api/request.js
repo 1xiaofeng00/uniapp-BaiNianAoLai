@@ -1,7 +1,7 @@
 import store from '@/store/index.js'
 export default {
   common: {
-    baseUrl: "http://192.168.1.8:3000/api",
+    baseUrl: "http://192.168.xx.xx:3000/api",
     header: {
       //JSON序列化
       'content-type': "application/json",
